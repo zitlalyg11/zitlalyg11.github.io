@@ -18,7 +18,7 @@
       text-align: center;
     }
     nav {
-      background: #D4AF37;
+      background: #FFD700;
       display: flex;
       justify-content: center;
       gap: 20px;
