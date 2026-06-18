@@ -24,13 +24,14 @@
     }
 
     nav {
-      background: #ffb347;
-      display: flex;
-      justify-content: center;
-      gap: 20px;
-      padding: 12px;
-      flex-wrap: wrap;
-    }
+    <nav>
+  <a href="#about">About</a>
+  <a href="#gallery">Gallery</a>
+  <a href="#pricing">Pricing</a>
+  <a href="#design">Choose Design</a>
+  <a href="#contact">Order</a>
+</nav>
+
 
     nav a {
      <nav>
