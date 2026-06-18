@@ -52,7 +52,7 @@
       padding: 15px;
     }
     .btn {
-      background: #ff6f61;
+      background: #FF007F;
       color: white;
       padding: 10px 20px;
       text-decoration: none;
