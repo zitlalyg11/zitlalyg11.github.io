@@ -141,7 +141,7 @@
 
   <!-- Replace with your info -->
   <p>Phone: (your number)</p>
-  <p>Email: your@email.com</p>
+  <p>Email: zitlalyg11@gmail.com</p>
 
   <a class="btn" href="mailto:your@email.com">Order Now</a>
 </section>
