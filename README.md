@@ -64,7 +64,7 @@
 <body>
 
 <header>
-  <h1>Your Piñata Business</h1>
+  <h1>Rayos del Sol</h1>
   <p>Custom handmade piñatas for every celebration 🎉</p>
 </header>
 
@@ -109,7 +109,7 @@
 </section>
 
 <footer>
-  <p>© 2026 Your Piñata Business</p>
+  <p>© 2026 Rayos del Sol</p>
 </footer>
 
 </body>
