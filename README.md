@@ -33,10 +33,13 @@
     }
 
     nav a {
-      text-decoration: none;
-      color: #333;
-      font-weight: bold;
-    }
+     <nav>
+  <a href="#about">About</a>
+  <a href="#gallery">Gallery</a>
+  <a href="#pricing">Pricing</a>
+  <a href="#design">Choose Design</a>
+  <a href="#contact">Order</a>
+</nav>
 
     section {
       padding: 40px 20px;
