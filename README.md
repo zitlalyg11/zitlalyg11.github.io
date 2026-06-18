@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Your Piñata Business</title>
+  <title>Rayos del Sol</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
@@ -18,7 +18,7 @@
       text-align: center;
     }
     nav {
-      background: #ffb347;
+      background: #D4AF37;
       display: flex;
       justify-content: center;
       gap: 20px;
@@ -103,7 +103,7 @@
 <section id="contact">
   <h2>Contact Us</h2>
   <p>Order your custom piñata today!</p>
-  <p>Email: your@email.com</p>
+  <p>Email: zitlalyg11@gmail.com</p>
   <p>Phone: (xxx) xxx-xxxx</p>
   <a class="btn" href="mailto:your@email.com">Email Us</a>
 </section>
